@@ -4,4 +4,4 @@ Welcome to the News Hub-Inside Out! This website is designed to provide users wi
 The project focuses on delivering a responsive and user-friendly interface, built with HTML, CSS, and JavaScript, to ensure seamless navigation and an optimal user experience across all devices.
 <br>
 <br>
-![Screenshot (587)](https://github.com/user-attachments/assets/9fed782e-f34e-4400-833a-9b1f1f33b193)
+
